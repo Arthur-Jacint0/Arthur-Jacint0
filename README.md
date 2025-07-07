@@ -3,8 +3,8 @@
 🚀 O que faço: Aluno em análise em desenvolvimento de sistemas pela escola SENAI, e futuro analista em em ciência em banco de dados
 
 🛠️ Tecnologias que uso:
-- Linguagens: Python
-- Ferramentas: Vscode, Git
+- Linguagens: Python, Java
+- Ferramentas: Vscode, Git, Micosoft Power BI
 
 📚 O que estou aprendendo: Estudando análise em desenvolvimento de sistemas, programação em Python
 
