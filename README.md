@@ -1,4 +1,4 @@
-👨‍💻Nome: Arthur Ricardo Jacinto
+👨‍💻Nome: Arthur Jacinto
 
 🚀 O que faço: Aluno em análise em desenvolvimento de sistemas pela escola SENAI, e futuro analista em ciência em banco de dados
 
