@@ -1,6 +1,6 @@
 👨‍💻Nome: Arthur Ricardo Jacinto
 
-🚀 O que faço: Aluno em análise em desenvolvimento de sistemas pela escola SENAI, e futuro analista em em ciência em banco de dados
+🚀 O que faço: Aluno em análise em desenvolvimento de sistemas pela escola SENAI, e futuro analista em ciência em banco de dados
 
 🛠️ Tecnologias que uso:
 - Linguagens: Python, Java
